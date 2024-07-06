@@ -1,8 +1,8 @@
-# UAS4-Pengolahan-Citra
+## Nama  : Azhyka Rizki Ramadhan
+## Kelas : TI 22 C8
+## NIM   : 312210287
 
-## PENJELASAN
 
-## K-means Clustering
 
 ## Program
 Berikut adalah program Python yang telah dirapikan dan dijelaskan setiap langkahnya. Program ini menggunakan OpenCV untuk memproses gambar, melakukan clustering dengan algoritma k-means, dan menampilkan hasilnya menggunakan matplotlib.
